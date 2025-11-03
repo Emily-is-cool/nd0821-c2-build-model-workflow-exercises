@@ -1,0 +1,14 @@
+artifact_uri: file:///home/emily/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/a819768d33b14487b47b675ca114d7c1/artifacts
+end_time: 1762149323969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a819768d33b14487b47b675ca114d7c1
+run_name: efficient-vole-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762149158473
+status: 4
+tags: []
+user_id: emily

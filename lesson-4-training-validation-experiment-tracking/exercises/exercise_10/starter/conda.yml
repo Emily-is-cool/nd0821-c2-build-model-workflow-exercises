@@ -3,15 +3,24 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.13
+  # Pin to a supported Python version (3.9–3.11). 3.13 is too new for MLflow 3.2.0 and wandb 0.21.
+  - python=3.10
+
+  # Core scientific stack
   - pandas=2.3.2
-  - pip=24.3.1
   - scikit-learn=1.7.2
   - matplotlib=3.10.6
   - plotly=6.3.0
   - pillow=11.3.0
+
+  # MLflow & config libraries
   - mlflow=3.2.0
   - hydra-core=1.3.2
+  - omegaconf=2.3.0
+
+  # Essentials
+  - pip>=24
+  - pyyaml
+
   - pip:
       - wandb==0.21.3
-      - omegaconf==2.3.0

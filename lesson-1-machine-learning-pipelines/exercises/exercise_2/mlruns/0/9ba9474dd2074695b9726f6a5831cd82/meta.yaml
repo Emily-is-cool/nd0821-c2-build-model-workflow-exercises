@@ -1,0 +1,14 @@
+artifact_uri: file:///home/emily/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_2/mlruns/0/9ba9474dd2074695b9726f6a5831cd82/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ba9474dd2074695b9726f6a5831cd82
+run_name: hilarious-lark-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761712947147
+status: 1
+tags: []
+user_id: emily

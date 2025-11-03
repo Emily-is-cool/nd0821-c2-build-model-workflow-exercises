@@ -1,0 +1,14 @@
+artifact_uri: file:///home/emily/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/3969fdca980149b291cb79dbc17e8686/artifacts
+end_time: 1762148726182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3969fdca980149b291cb79dbc17e8686
+run_name: magnificent-stag-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762148724826
+status: 4
+tags: []
+user_id: emily

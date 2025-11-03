@@ -1,0 +1,14 @@
+artifact_uri: file:///home/emily/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/8a97e52e7faa43b1a9fab1a75db6f457/artifacts
+end_time: 1762148278859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a97e52e7faa43b1a9fab1a75db6f457
+run_name: exultant-mink-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762148277935
+status: 4
+tags: []
+user_id: emily
